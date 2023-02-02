@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Cars {
+public class Stars {
     public static void main(String[] args) {
         String fileName = "C:\\temp\\Stars.csv";
 
